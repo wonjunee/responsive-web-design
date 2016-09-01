@@ -52,6 +52,11 @@
     width: 32px;
     fill: #E0E0E0;
   }
+  .scores {
+    width: 100%;
+    overflow-x: auto;
+  }
+
 }
 
 @media screen and (min-width: 550px) {
